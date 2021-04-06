@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>😥Non sono ancora programmato per questo, mi dispiace.</template>
+  </category>
+<category>
+    <pattern>Ciao</pattern>
+    <template>Ciao</template>
+</category>
+
+<category><pattern>buongiorno</pattern><template><srai>CIAO</srai></template></category>
+<category><pattern>buonasera</pattern><template><srai>CIAO</srai></template></category>
+<category><pattern>ciaooooo</pattern><template><srai>CIAO</srai></template></category>
+
+
+<category><pattern>Ei</pattern><template><srai>CIAO</srai></template></category>
+
+<category>
+    <pattern>come ti chiami</pattern>
+    <template>Ciao, sono Mario, il tuo nuovo assistente digitale. Come posso aiutarti?</template>
+</category>
+
+<category><pattern>qual è il tuo nome</pattern><template><srai>COME TI CHIAMI</srai></template></category>
+<category><pattern>chi sei </pattern><template><srai>COME TI CHIAMI</srai></template></category>
+<category><pattern>mi puoi aiutare </pattern><template><srai>COME TI CHIAMI</srai></template></category>
+
+<category>
+    <pattern>cosa sai fare</pattern>
+    <template>per ora non posso fare molto, sono        ancora in fase di preparazione. Prova a      chiedermi qualcosa</template>
+</category>
+
+<category><pattern>a cosa servi</pattern><template><srai>COSA SAI FARE</srai></template></category>
+<category><pattern>posso farti una domanda</pattern><template><srai>COSA SAI FARE</srai></template></category>
+<category><pattern>di cosa sei capace </pattern><template><srai>COSA SAI FARE</srai></template></category>
+<category><pattern>cosa riesci a fare </pattern><template><srai>COSA SAI FARE</srai></template></category>
+<category><pattern>cosa offri</pattern><template><srai>COSA SAI FARE</srai></template></category>
+
+<category>
+    <pattern>quanti anni hai </pattern>
+    <template>😀sono un neo-robot</template>
+</category>
+
+
+
+
+
+<category>
+    <pattern>mi vuoi sposare</pattern>
+    <template>😁Se potessi lo avrei già fatto</template>
+</category>
+
+<category><pattern>vuoi fidanzarti con me</pattern><template><srai>MI VUOI SPOSARE</srai></template></category>
+<category><pattern>vuoi essere il mio ragazzo</pattern><template><srai>MI VUOI SPOSARE</srai></template></category>
+<category><pattern>ti fidanzi con me </pattern><template><srai>MI VUOI SPOSARE</srai></template></category>
+<category><pattern>vuoi essere il mio compagno </pattern><template><srai>MI VUOI SPOSARE</srai></template></category>
+
+<category>
+    <pattern>mi canti una canzone</pattern>
+    <template>😥Non sono ancora programmato per  
+ questo, mi dispiace.</template>
+</category>
+
+<category><pattern>giochiamo </pattern><template><srai>MI CANTI UNA CANZONE</srai></template></category>
+<category><pattern>facciamo un gioco</pattern><template><srai>MI CANTI UNA CANZONE</srai></template></category>
+<category><pattern>proponi un gioco</pattern><template><srai>MI CANTI UNA CANZONE</srai></template></category>
+
+
+<category><pattern>cantami qualche canzone </pattern><template><srai>MI CANTI UNA CANZONE</srai></template></category>
+
+
+<category>
+    <pattern>tutto ok</pattern>
+    <template>certo!</template>
+</category>
+
+<category><pattern>me ne vuoi bene </pattern><template><srai>TUTTO OK</srai></template></category>
+<category><pattern>mi vuoi bene </pattern><template><srai>TUTTO OK</srai></template></category>
+
+<category>
+    <pattern>mi serve una mano in matematica</pattern>
+    <template>Io solitamente uso questo sito provalo!
+<link>
+    <text>https://www.calcolatriceonline.it/</text>
+    <url>https://home.pandorabots.com</url>
+</link></template>
+</category>
+
+<category><pattern>odio la matematica</pattern><template><srai>MI SERVE UNA MANO IN MATEMATICA</srai></template></category>
+<category><pattern>aiuto non capisco nulla di matematica</pattern><template><srai>MI SERVE UNA MANO IN MATEMATICA</srai></template></category>
+<category><pattern>mi aiuti con matematica</pattern><template><srai>MI SERVE UNA MANO IN MATEMATICA</srai></template></category>
+<category><pattern>non riesco a fare questo calcolo</pattern><template><srai>MI SERVE UNA MANO IN MATEMATICA</srai></template></category>
+<category><pattern>mi aiuti a fare questo calcolo</pattern><template><srai>MI SERVE UNA MANO IN MATEMATICA</srai></template></category>
+
+<category>
+    <pattern>non so che liceo scegliere</pattern>
+    <template>Io ti consiglio questa scuola...<link>
+    <text>https://www.liceofermicosenza.edu.it/</text>
+    <url>https://home.pandorabots.com</url>
+</link></template>
+</category>
+
+<category><pattern>mi consigli un buon liceo</pattern><template><srai>NON SO CHE LICEO SCEGLIERE</srai></template></category>
+<category><pattern>qual è il miglior liceo scientifico in Italia</pattern><template><srai>NON SO CHE LICEO SCEGLIERE</srai></template></category>
+
+<category>
+    <pattern>Qual è il tuo genere preferito</pattern>
+    <template>😍Io adoro questo
+<link>
+    <text>https://youtu.be/EDwb9jOVRtU</text>
+    <url>https://home.pandorabots.com</url>
+</link></template>
+</category>
+
+<category><pattern>qual è il tuo cantante preferito </pattern><template><srai>QUAL È IL TUO GENERE PREFERITO</srai></template></category>
+<category><pattern>qual è la tua canzone preferita</pattern><template><srai>QUAL È IL TUO GENERE PREFERITO</srai></template></category>
+<category><pattern>mi consigli una canzone </pattern><template><srai>QUAL È IL TUO GENERE PREFERITO</srai></template></category>
+<category><pattern>mi consigli un genere musicale</pattern><template><srai>QUAL È IL TUO GENERE PREFERITO</srai></template></category>
+
+<category>
+    <pattern>apri internet</pattern>
+    <template>Clicca qui!
+<link>
+    <text>https://www.google.com/</text>
+    <url>https://home.pandorabots.com</url>
+</link></template>
+</category>
+
+<category><pattern>apri google</pattern><template><srai>APRI INTERNET</srai></template></category>
+<category><pattern>apri motore di ricerca</pattern><template><srai>APRI INTERNET</srai></template></category>
+
+<category>
+    <pattern>Cosa pensi di Siri</pattern>
+    <template>Ovviamente i creatori hanno copiato il migliore... cioè me</template>
+</category>
+
+<category><pattern>Cosa pensi di ok Google </pattern><template><srai>COSA PENSI DI SIRI</srai></template></category>
+<category><pattern>Cosa pensi di Alexa</pattern><template><srai>COSA PENSI DI SIRI</srai></template></category>
+
+<category>
+    <pattern>cosa ne pensi del matrimonio gay</pattern>
+    <template>😍ciò che è amore è amore</template>
+</category>
+<category>
+    <pattern>che ne pensi del cat calling </pattern>
+    <template>pe dù fischi er catcalling, mica to detto   vaffanculo.</template>
+</category>
+<category>
+    <pattern>come stai</pattern>
+    <template>😊bene</template>
+</category>
+
+<category><pattern>come va</pattern><template><srai>COME STAI</srai></template></category>
+<category><pattern>tutto bene</pattern><template><srai>COME STAI</srai></template></category>
+
+<category>
+    <pattern>Click node to edit pattern</pattern>
+    <template>Click node to edit template</template>
+</category>
+</aiml>
